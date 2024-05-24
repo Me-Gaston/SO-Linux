@@ -1,0 +1,4 @@
+touch ---> Crea un nuevo archivo vacio
+cp ---> Copia archivos y directorios
+mv ---> Mueve o renombra archivos
+rm ---> Eliminar el archivo

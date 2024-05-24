@@ -1,0 +1,6 @@
+ls ---> Nos permite ver el contenido de lo que hay (archivos/carpetas) en el directorio actual
+pwd ---> Nos muestra el directorio actual
+cd <nombre> ---> Nos permite movernos hacia carpetas
+date ---> Nos muestra el dia y hora actual
+free ---> Nos muestra la memoria libre
+ 
